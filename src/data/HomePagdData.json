@@ -1,0 +1,23 @@
+{
+  "hero": {
+    "imgUrl": "/images/home-banner.jpg",
+    "name": "Haikal Ahmad R",
+    "heading": "Hay! My Name is Haikal",
+    "typingText": ["I'm a Regular Man", 1500 , "I'm a Cloud Stundent", 1500],
+    "description": "A student who is studying cloud computing at Bangkit Academy. Still beginners need teaching from the elders. Thanks for your visit",
+    "btnText": "Connect with me",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:github",
+      "iconBgClass": "github",
+      "href": "https://github.com/HaikalArobbani"
+    },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/haikal-ahmad-robbani-130424228/"
+    }
+  ]
+}
